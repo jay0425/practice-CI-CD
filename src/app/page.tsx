@@ -6,9 +6,5 @@ import TodoItem from "./components/TodoItem";
 
 // app/page.tsx
 export default function Home() {
-  return (
-    <>
-      <LoginForm />
-    </>
-  );
+  return <></>;
 }
